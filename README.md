@@ -10,31 +10,31 @@
 </p>
 <h3>HyDaS</h3>
 <p align="center">
-  <img src="https://github.com/KeshavGoswami/Grabcut-Foreground-Extraction/blob/master/IRONMAN.jpg" width="350"/>
+  <img src="https://github.com/KeshavGoswami/HyDaS/blob/master/Images/1.PNG" width="350"/>
 </p>
 <h3>Image Visualizer Window</h3>
 <p align="center">
-  <img src="https://github.com/KeshavGoswami/Grabcut-Foreground-Extraction/blob/master/extraction.PNG" width="350"/>
+  <img src="https://github.com/KeshavGoswami/HyDaS/blob/master/Images/5.png" width="350"/>
  </p>
  <h3>Image Display</h3>
 <p align="center">
-  <img src="https://github.com/KeshavGoswami/Grabcut-Foreground-Extraction/blob/master/extraction.PNG" width="350"/>
+  <img src="https://github.com/KeshavGoswami/HyDaS/blob/master/Images/8.png" width="350"/>
  </p>
 
 <h3>Spectral Profile Viewer</h3>
 <p align="center">
-  <img src="https://github.com/KeshavGoswami/Grabcut-Foreground-Extraction/blob/master/extraction.PNG" width="350"/>
+  <img src="https://github.com/KeshavGoswami/HyDaS/blob/master/Images/20.png" width="350"/>
  </p>
  <h3>Spectral Profile Plot</h3>
 <p align="center">
-  <img src="https://github.com/KeshavGoswami/Grabcut-Foreground-Extraction/blob/master/extraction.PNG" width="350"/>
+  <img src="https://github.com/KeshavGoswami/HyDaS/blob/master/Images/22.png" width="350"/>
  </p>
 
 <h3>Unmixing</h3>
 <p align="center">
-  <img src="https://github.com/KeshavGoswami/Grabcut-Foreground-Extraction/blob/master/extraction.PNG" width="350"/>
+  <img src="https://github.com/KeshavGoswami/HyDaS/blob/master/Images/24.png" width="350"/>
  </p>
 <h3>Linear Unmixing Process</h3>
 <p align="center">
-  <img src="https://github.com/KeshavGoswami/Grabcut-Foreground-Extraction/blob/master/extraction.PNG" width="350"/>
+  <img src="https://github.com/KeshavGoswami/HyDaS/blob/master/Images/28.png" width="350"/>
  </p>
